@@ -1,8 +1,7 @@
-
-<h1 align="center">🚀 GeeksforGeeks Solutions</h1>
+add in this <h1 align="center">🚀 GeeksforGeeks Solutions</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GeeksforGeeks+Repository!;Daily+DSA+Practice+💻;Java+|+Python+|+C++;Keep+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GeeksforGeeks+Repository!;Daily+DSA+Practice+%F0%9F%92%BB;Java+%7C+Python+%7C+C%2B%2B;Keep+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -79,7 +78,9 @@ I solve problems regularly to improve my:
 # 💻 Languages
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,cpp"/>
+
 </p>
 
 ---
@@ -122,24 +123,6 @@ GeeksforGeeks/
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
-</p>
-
----
-
-# 📋 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=5.5" width="48%"/>
 </p>
 
 ---
@@ -200,5 +183,4 @@ It motivates me to keep solving more problems.
 
 ### Happy Coding 🚀
 
-</p>
-````
+</p>   
