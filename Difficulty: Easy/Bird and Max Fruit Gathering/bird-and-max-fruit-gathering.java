@@ -1,0 +1,20 @@
+class Solution {
+    public int maxFruits(ArrayList<Integer> arr, int m) {
+        int n = arr.size();
+        long currentSum = 0;
+
+        for (int i = 0; i < m; i++) {
+            currentSum += arr.get(i);
+        }
+
+        long maxSum = currentSum;
+
+        for (int i = 1; i < n; i++) {
+            currentSum -= arr.get(i - 1);
+            currentSum += arr.get((i + m - 1) % n);
+            maxSum = Math.max(maxSum, currentSum);
+        }
+
+        return (int) maxSum;
+    }
+}
